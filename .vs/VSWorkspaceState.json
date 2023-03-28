@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\database",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\views",
+    "\\src\\app\\views\\dashboard",
+    "\\src\\app\\views\\material-kit",
+    "\\src\\app\\views\\material-kit\\dialog",
+    "\\src\\app\\views\\sessions",
+    "\\src\\fake-db"
+  ],
+  "SelectedNode": "\\jsconfig.json",
+  "PreviewInSolutionExplorer": false
+}
